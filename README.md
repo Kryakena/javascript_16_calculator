@@ -1,7 +1,14 @@
-# Калькулятор
+# 📚 Калькулятор 📚
 
 Источник: видео "Speed Coding | HTML, CSS, JS - Calculator" 
 https://vk.com/im/convo/19460369?entrypoint=list_all&z=video-101965347_456276133%2F98c1eac7213a7f330f
+
+![2025-01-04_14-36-57](https://github.com/user-attachments/assets/874c4091-e8ff-44cf-aadc-61b759168b0e)
+
+
+https://github.com/user-attachments/assets/5c6603c7-eeb0-4132-b9ba-92a38d4290db
+
+
 
 1. создаем создаем файлы index.html, style.css (в папке css), script.js (в папке js) в папке проекта.
 
@@ -315,6 +322,10 @@ style.css
 </html>
 ```
 
+![2025-01-04_14-34-29](https://github.com/user-attachments/assets/d5f9d2ca-d6b4-47af-a265-cc09ad76ba45)
+![2025-01-04_14-34-44](https://github.com/user-attachments/assets/977ec1cb-908e-42d3-bd90-0df77b72c2ad)
+
+
 2. style.css
 
 ```css
@@ -369,6 +380,9 @@ html,body{
 }
 ```
 
+![2025-01-04_14-35-06](https://github.com/user-attachments/assets/6d7e1ffe-2b26-40c4-b081-bd46e5e948d6)
+
+
 3. script.js
 
 ```js
@@ -389,3 +403,5 @@ function back(){
     document.form.textview.value = exp.substring(0,exp.length-1);
 }
 ```
+
+![2025-01-04_14-35-31](https://github.com/user-attachments/assets/199eda61-ddb6-43cc-9fc0-a0d54e0a953d)
